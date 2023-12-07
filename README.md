@@ -4,7 +4,7 @@
 
 ## São 13 desafios de lógica de programação que foram resolvidos na plataforma HackerRank.
 
-## Os códigos foram copiados para o VSCode e podem ser exetutaos lá.
+## Os códigos foram copiados para o VSCode e podem ser exetutados lá.
 
 ## Os inputs estão no início do código.
 
