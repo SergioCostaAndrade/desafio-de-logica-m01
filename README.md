@@ -8,7 +8,7 @@
 
 ## Os inputs estão no início do código.
 
-## Podem ser executados abrindo o terminal na pasta em que for baxados os códigos e rodar com o comando node index.js
+## Podem ser executados abrindo o terminal na pasta em que forem baixados os códigos e rodar com o comando node index.js
 
 
 
