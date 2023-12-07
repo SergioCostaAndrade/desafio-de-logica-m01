@@ -4,7 +4,12 @@
 
 ## São 13 desafios de lógica de programação que foram resolvidos na plataforma HackerRank.
 
-## Os códigos 
+## Os códigos foram copiados para o VSCode e podem ser exetutaos lá.
+
+## Os inputs estão no início do código.
+
+## Podem ser executados abrindo o terminal na pasta em que for baxados os códigos e rodar com o comando node index.js
+
 
 
 
